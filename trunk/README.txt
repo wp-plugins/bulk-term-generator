@@ -38,10 +38,15 @@ This plugin is new, so there aren't any "Frequently Asked Questions" yet! Use th
 
 == Screenshots ==
 
-1. Adding a big list of terms to a custom taxonomy
-2. Preview the terms before they're generated
+1. Adding a big list of terms to a custom taxonomy, one per line. Optional: Specify the slug and/or description.
+2. Preview the terms before they're generated.
+3. Watch the terms being created in real time. Pause or Cancel at any point.
+4. Adding or editing the slug and/or description before generating the terms is easy.
 
 == Changelog ==
 
-= 0.1 =
+= 1.0.2 =
+* Added screenshots
+
+= 1.0.1 =
 * Initial release
