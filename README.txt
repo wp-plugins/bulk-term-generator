@@ -26,6 +26,16 @@ Now there's a better way...
 4. You can see which terms will be added before they are generated. This gives you a chance to make any changes before the final step.
 5. When you're ready, just hit the "Generate Terms" button, and you're done!
 
+= Localization =
+Bulk Term Generator developed ready for translation.
+
+This plugin has been translated to the following languages:
+
+* English
+* Spanish (Mexico)
+
+Please let me know if you're interested in providing translations!
+
 == Installation ==
 
 1. Upload the folder `bulk-term-generator` to the `/wp-content/plugins/` directory
